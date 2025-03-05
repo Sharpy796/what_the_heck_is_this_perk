@@ -1,0 +1,5 @@
+<Mod
+    name="What the Heck Is This Perk"
+    description="Renames the perks to be almost but not quite correct.\nThe original names are in there too, to be more confusing."
+    request_no_api_restrictions="0"
+></Mod>
