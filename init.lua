@@ -462,7 +462,7 @@ Names = {
     {{"perk_map", "perkdesc_map"},
         {"Spatial Awareness", "If you stop for a moment, you can sense your location relative to the Mountain."},
         {"Map", ""},
-        {"Where the Heck am I", ""},
+        {"Where the Heck am I", "If you stop for a moment, you can figure out where the heck you are."},
     },
     -- Essences
     {{"item_essence_fire", "itemdesc_essence_fire"},
@@ -501,6 +501,12 @@ Names = {
     {{"cards_tarot_cloth_name", "cards_tarot_cloth_desc"},
         {"Tarot Cloth", "Your cards have enhanced effects."},
         {"Tarot Cloth", "I see the future"},
+    },
+    ]]--
+    -- Apotheosis (TODO)
+    --[[
+    {{"i dunno apotheosis stuff can go here", "more apoth stuff"},
+        {"name", "desc"},
     },
     ]]--
 }
