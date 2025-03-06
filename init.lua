@@ -366,7 +366,7 @@ Names = {
         {"Angry Gost", "An angry gost comes to your aid, copying nearby spells and projectiles."},
         {"Unhappy Gost", "An unhappy gost comes to your aid, copying nearby spells and projectiles."},
     },
-    {{"perk_hungry_ghost", "perkdesc_hungry_ghost"}, -- 
+    {{"perk_hungry_ghost", "perkdesc_hungry_ghost"},
         {"Hungry Ghost", "Summons a happy minion who'll eat enemy projectile every now and then."},
         {":)", ""},
         {"Happy Ghost", "Summons a hungry minion who'll eat enemy projectile every now and then."},
